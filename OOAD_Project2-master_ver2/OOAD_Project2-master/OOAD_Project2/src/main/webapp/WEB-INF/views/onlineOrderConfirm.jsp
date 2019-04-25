@@ -19,4 +19,15 @@
 </body>
 </html>
 
+<style CSS>
+body {
+  background: url("https://cdn.shopify.com/s/files/1/0065/4917/6438/products/a-delivery-man-delivering-a-large-box-and-a-suburban-street-background_1200x1200.jpg?v=1538460471");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+</style>
+
+
 <%@ include file="commonCode/footer.jspf"%>

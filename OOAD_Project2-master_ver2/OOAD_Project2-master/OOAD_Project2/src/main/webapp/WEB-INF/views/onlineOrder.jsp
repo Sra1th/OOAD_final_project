@@ -35,7 +35,7 @@
             <input name="address" type="text" class="form-control" placeholder="Address"/>
             <span></span>
 
-            <button class="btn btn-lg btn-primary btn-block" type="submit">Submit</button>
+            <button class="btn btn-default" type="submit">Submit</button>
         </div>
 
     </form>
@@ -45,6 +45,16 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
+<style CSS>
+body {
+  background: url("https://cdn.shopify.com/s/files/1/0065/4917/6438/products/a-delivery-man-delivering-a-large-box-and-a-suburban-street-background_1200x1200.jpg?v=1538460471");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+</style>
+
 
 <%@ include file="commonCode/footer.jspf"%>
 </html>
